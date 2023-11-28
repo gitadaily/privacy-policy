@@ -24,7 +24,7 @@ The security of your information is important to us. While we do not collect per
 
 6. Children’s Privacy
 
-Gita Daily is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children. If you are a parent or guardian and believe that your child has provided us with any personal information, please contact us, and we will take steps to remove that information.
+Gita Daily is also intended for use by individuals under the age of 13. We do not knowingly collect personal information from children. If you are a parent or guardian and believe that your child has provided us with any personal information, please contact us, and we will take steps to remove that information.
 
 7. Changes to This Privacy Policy
 
