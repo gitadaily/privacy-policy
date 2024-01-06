@@ -8,7 +8,7 @@ Welcome to Gita Daily, an application designed for reading articles related to t
 
 2. Information Collection and Usage
 
-Gita Daily does not collect any personal information from its users. We do not require you to provide any personal details, such as your name, email address, or other identifiable information.
+Gita Daily does not collect any personal information from its users. We do require you to social sign in with apple or google and is not used for any tracking purposes. Neither is the data shared with any third party service outside.
 
 3. Location Information
 
